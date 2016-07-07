@@ -1,0 +1,2 @@
+# lucky
+just for start
